@@ -1,10 +1,6 @@
 # 《CSS设计指南》——添加样式
 <br/>
-通过了第一章对HTML的学习了解，接下来就可以来了解一下CSS的工作原理了。CSS主要是给HTML添加样式的，正因为有了CSS，我们的网页不仅能设计的多样化，还能富有艺术性。讲到这里我突然想到有一个叫
-[中国色-中国传统颜色](http://zhongguose.com/)
-的配色网站还挺不错的，它是模仿日本的一个传统颜色网站
-[NIPPON COLORS - 日本の伝統色](http://nipponcolors.com/)
-，有时候我会在这里找找配色灵感。
+通过了第一章对HTML的学习了解，接下来就可以来了解一下CSS的工作原理了。CSS主要是给HTML添加样式的，正因为有了CSS，我们的网页不仅能设计的多样化，还能富有艺术性。讲到这里我突然想到有一个叫[中国色-中国传统颜色](http://zhongguose.com/) 的配色网站还挺不错的，它是模仿日本的一个传统颜色网站[NIPPON COLORS - 日本の伝統色](http://nipponcolors.com/) ，有时候我会在这里找找配色灵感。
 
 
 ## 为文档添加样式的三种方法
@@ -13,7 +9,9 @@
 ### 行内样式
 ```    
 <div style="clear:both; padding:100px 0 0 0;font-size:.85em; color:#666;">
-  <p>A code example from <em>Stylin&rsquo; with CSS, Third Edition</em>by Charles Wyke-Smith. Visit <a href="http://www.stylinwithcss.com">stylinwithcss.com</a> for more CSS information and updates.</p>
+  <p>A code example from <em>Stylin&rsquo; with CSS, Third Edition</em>by Charles Wyke-Smith. 
+  Visit <a href="http://www.stylinwithcss.com">stylinwithcss.com</a>
+  for more CSS information and updates.</p>
 </div>
 ```
 这种在标签元素内部写的CSS规则叫做行内样式，我觉得一般会在偷懒的时候使用😊。
