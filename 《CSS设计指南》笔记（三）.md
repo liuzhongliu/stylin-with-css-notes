@@ -1,7 +1,6 @@
 # 《CSS设计指南》——选择器
 <br/>
-选择器的种类有很多，可以到[w3cschool](http://www.w3school.com.cn/cssref/css_selectors.asp)去看看了解一下。也可以在[慕课网](http://www.imooc.com/learn/9)中实践一下。
-***
+选择器的种类有很多，可以到[w3cschool](http://www.w3school.com.cn/cssref/css_selectors.asp) 去看看了解一下。也可以在[慕课网](http://www.imooc.com/learn/9) 中实践一下。
 
 ## 标签选择器
 ```
