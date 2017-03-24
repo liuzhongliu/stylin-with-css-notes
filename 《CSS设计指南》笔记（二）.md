@@ -5,10 +5,13 @@
 
 ## 为文档添加样式的三种方法
 <br/>
+
 ### 行内样式
-    <div style="clear:both; padding:100px 0 0 0;font-size:.85em; color:#666;">
-      <p>A code example from <em>Stylin&rsquo; with CSS, Third Edition</em>by Charles Wyke-Smith. Visit <a href="http://www.stylinwithcss.com">stylinwithcss.com</a> for more CSS information and updates.</p>
-    </div>
+```    
+<div style="clear:both; padding:100px 0 0 0;font-size:.85em; color:#666;">
+  <p>A code example from <em>Stylin&rsquo; with CSS, Third Edition</em>by Charles Wyke-Smith. Visit <a href="http://www.stylinwithcss.com">stylinwithcss.com</a> for more CSS information and updates.</p>
+</div>
+```
 这种在标签元素内部写的CSS规则叫做行内样式，我觉得一般会在偷懒的时候使用😊。
 
 
